@@ -116,53 +116,5 @@ window.addEventListener('scroll', () => {
     moon.position.y = scrollValue * 0.1;
 });
 
-// JavaScript to change href attribute of links on hover
-const emailLink = document.querySelector('.email-link');
-const linkedinLink = document.querySelector('.linkedin-link');
-const githubLink = document.querySelector('.github-link');
-const leetcodeLink = document.querySelector('.leetcode-link');
-const codeforcesLink = document.querySelector('.codeforces-link');
-
-emailLink.addEventListener('mouseover', () => {
-  emailLink.setAttribute('href', 'mailto:example@example.com');
-});
-
-emailLink.addEventListener('mouseout', () => {
-  emailLink.setAttribute('href', 'mailto:jackkent790@gmail.com');
-});
-
-linkedinLink.addEventListener('mouseover', () => {
-  linkedinLink.setAttribute('href', 'https://linkedin.com/in/your-profile');
-});
-
-linkedinLink.addEventListener('mouseout', () => {
-  linkedinLink.setAttribute('href', 'https://linkedin.com/in/turbo-cyborg-978b3025b');
-});
-
-githubLink.addEventListener('mouseover', () => {
-  githubLink.setAttribute('href', 'https://github.com/your-profile');
-});
-
-githubLink.addEventListener('mouseout', () => {
-  githubLink.setAttribute('href', 'https://github.com/Turbocyb0rg');
-});
-
-leetcodeLink.addEventListener('mouseover', () => {
-  leetcodeLink.setAttribute('href', 'https://leetcode.com/your-profile');
-});
-
-leetcodeLink.addEventListener('mouseout', () => {
-  leetcodeLink.setAttribute('href', 'https://leetcode.com/turb0cyb0rg/');
-});
-
-codeforcesLink.addEventListener('mouseover', () => {
-  codeforcesLink.setAttribute('href', 'https://codeforces.com/your-profile');
-});
-
-codeforcesLink.addEventListener('mouseout', () => {
-  codeforcesLink.setAttribute('href', 'https://codeforces.com/profile/turbocyborg');
-});
-
-
 // Start animation
 animate();
