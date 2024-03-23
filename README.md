@@ -32,4 +32,4 @@ Welcome to the repository for a website featuring a captivating 3D user interfac
 
 ## Additional Information
 
-Feel free to explore the code and customize it to fit your requirements. Should you encounter any issues or have any questions, please don't hesitate to open an issue or reach out to the repository owner. Enjoy immersing yourself in the mesmerizing 3D user interface!
+Feel free to explore the code and customize it to fit your requirements. Should you encounter any issues or have any questions, please don't hesitate to open an issue or reach out to me. Enjoy immersing yourself in the mesmerizing 3D user interface!
