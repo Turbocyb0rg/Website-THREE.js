@@ -3,7 +3,7 @@
 Welcome to the repository for a website featuring a captivating 3D user interface created using THREE.js. Follow the steps below to experience the immersive 3D UI locally:
 
 ## Screenshot:
-    ![Screenshot 2024-06-18 at 11-09-09 Vite App](https://github.com/Turbocyb0rg/Website-THREE.js/assets/126862038/0918e120-611e-48ef-9f11-59418884dd6a)
+    ![sss.png](https://github.com/Turbocyb0rg/Website-THREE.js/assets/sss.png)
 
 
 ## Installation Instructions
