@@ -3,7 +3,7 @@
 Welcome to the repository for a website featuring a captivating 3D user interface created using THREE.js. Follow the steps below to experience the immersive 3D UI locally:
 
 ## Screenshot:
-    ![](assets/sss.png)
+    ![](https://github.com/Turbocyb0rg/Website-THREE.js/blob/main/assets/sss.png)
 
 
 ## Installation Instructions
